@@ -1,4 +1,8 @@
 ## [제 1회 통계빅데이터 분석 활용대회](https://data.kostat.go.kr/sbchome/bbs/boardList.do?boardId=SBCSBBS_000000001000&curMenuNo=OPT_03_03_00_0) :trophy:
+
+ <img src="IMAGE/poster.jpg" width="600"/>
+
+
 * 목적
   + 정부혁신의 일환으로 통계빅데이터센터 자료 분석 기회를 제공하여 **데이터 기반의 의사결정 문화 확산** 및 **통계빅데이터센터 이용 활성화**
  
