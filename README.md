@@ -1,6 +1,6 @@
 ## [제 1회 통계빅데이터 분석 활용대회](https://data.kostat.go.kr/sbchome/bbs/boardList.do?boardId=SBCSBBS_000000001000&curMenuNo=OPT_03_03_00_0) :trophy:
 
- <img src="IMAGE/poster.jpg" width="600"/>
+ <img src="IMAGE/poster.jfif" width="600"/>
 
 
 * 목적
